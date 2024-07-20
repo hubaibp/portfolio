@@ -474,7 +474,7 @@ a.back-to-top:hover, a.back-to-top:focus{
 .site-navigation{
     border-radius: 0px;
 }
-@media only screen and (max-width:480px){ 
+@media only screen and (max-width:600px){ 
 	.collapse.show{
 		display: block;
 		padding: 0!important;
@@ -875,7 +875,7 @@ Start FunFacts CSS
 /* ==========================================================================
 09. Start Blog Area
 ========================================================================== */
-@media only screen and (max-width:480px) { 
+@media only screen and (max-width:600px) { 
 .single_blog {margin-bottom:30px;}
 }
 .single_blog{
